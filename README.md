@@ -1,24 +1,18 @@
-## Hey there!!
+## Hey there!!I'm Janhavi, a Software Developer based in India.
+
 
 <img width="200" height="200" alt="SassGIF" src="https://github.com/user-attachments/assets/e384ebe9-13f9-4e9f-8e9e-e071c2a32aea" />
 
-**Built different. Deployed differently**
-I'm Janhavi, a Software Developer based in India.
+**Built different. Deployed differently** && **I write code that solves problems people didn't know they had yet.**
 
 
-**I write code that solves problems people didn't know they had yet.**
-
----
 
 ## 🔭 What I'm currently working on
 
-
 - CyberKavach / Anomaly Detection
 
----
 
 ## 🛠️ Tools & Tech I use
-
 
 **Languages:** Java, Python
 
@@ -28,17 +22,14 @@ I'm Janhavi, a Software Developer based in India.
 
 **Other:** Git & GitHub, REST APIs, MySQL, Postman, Linux
 
----
+
 
 ## 📬 How to reach me
-
 
 - 📧 [ghorpadejanhavi15@gmail.com](mailto:your@email.com)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-ghorpade)
 
-
----
 
 ## ⚡ Fun Facts
 
