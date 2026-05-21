@@ -1,6 +1,6 @@
 ## Hey there!!
 
-<img width="200" height="100" alt="SassGIF" src="https://github.com/user-attachments/assets/e384ebe9-13f9-4e9f-8e9e-e071c2a32aea" />
+<img width="200" height="200" alt="SassGIF" src="https://github.com/user-attachments/assets/e384ebe9-13f9-4e9f-8e9e-e071c2a32aea" />
 
 **Built different. Deployed differently**
 I'm Janhavi, a Software Developer based in India.
@@ -13,7 +13,7 @@ I'm Janhavi, a Software Developer based in India.
 ## 🔭 What I'm currently working on
 
 
-- CyberKavach / Anomaly Detection]
+- CyberKavach / Anomaly Detection
 
 ---
 
