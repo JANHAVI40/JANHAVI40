@@ -36,3 +36,11 @@
 - 🎵 Can hit a high note *and* a deadline — classical singer off the clock
 - ⚾🏸 Switches between baseball and badminton like I switch between tabs
 - 🎤 Elocutionist who can make a room listen — in meetings *and* on stage
+
+  ## 📊 GitHub Stats
+
+![Janhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JANHAVI40&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JANHAVI40&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JANHAVI40&theme=tokyonight&hide_border=true)
