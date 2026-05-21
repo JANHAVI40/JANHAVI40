@@ -39,8 +39,8 @@
 
   ## 📊 GitHub Stats
 
-![Janhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JANHAVI40&show_icons=true&theme=tokyonight&hide_border=true)
+![Janhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JANHAVI40&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JANHAVI40&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JANHAVI40&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JANHAVI40&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=JANHAVI40&theme=tokyonight&hide_border=true)
