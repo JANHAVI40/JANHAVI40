@@ -1,4 +1,4 @@
-## Hey there!!<img width="220" height="317" alt="SassGIF" src="https://github.com/user-attachments/assets/e384ebe9-13f9-4e9f-8e9e-e071c2a32aea" />
+## Hey there!!<img width="110" height="200" alt="SassGIF" src="https://github.com/user-attachments/assets/e384ebe9-13f9-4e9f-8e9e-e071c2a32aea" />
 
 **Built different. Deployed differently**
 I'm Janhavi, a Software Developer based in India.
@@ -31,7 +31,7 @@ I'm Janhavi, a Software Developer based in India.
 ## 📬 How to reach me
 
 
-- 📧 [ghorpadejanhavi15@email.com](mailto:your@email.com)
+- 📧 [ghorpadejanhavi15@gmail.com](mailto:your@email.com)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/janhavi-ghorpade)
 
